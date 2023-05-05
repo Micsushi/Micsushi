@@ -1,1 +1,1 @@
-# Micsushi
+Learning how to use Git!
