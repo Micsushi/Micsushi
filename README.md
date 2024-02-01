@@ -1,7 +1,7 @@
-# Welcome! 
-## I'm Wenjian (Michael) Shi
+# Welcome! 👋
+## 🚀 About Me
 
-I'm a third year Computer Science student and Teaching Assistant at the University of Alberta.
+📚 I'm Wenjian (Michael) Shi. I'm currently a third year Computer Science student at the University of Alberta. I am also a (TA) Teaching Assistant for CMPUT 201 (Practical Programming Methodology), the Vice President of External Relations at UACS and the Vice President of Schaffer Hall at the Lister Residence.
 
 | | |
 | --- | --- |
