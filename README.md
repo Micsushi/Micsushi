@@ -7,8 +7,6 @@
 
 🧑‍💻 So far I have worked with *Python, Java, C, JavaScript, HTML, CSS, C#, C++, R, RISC-V, Lisp, MySQL, MSSQL, SQLite, Firebase, MongoDB*
 
-
-| | |
-| --- | --- |
 | **Check out my LinkedIn:** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wjshi/) 
+| --- | --- |
 | **Send an email:** | wenjian2@ualberta.ca|
