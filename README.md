@@ -6,4 +6,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wjshi/) 
 
-You find out what I have been up to on my [website] (https://www.mshi.ca/)
+You find out what I have been up to on my [website](https://www.mshi.ca/)
