@@ -1,12 +1,12 @@
-<div class="flex flex-col items-center w-full max-w-4xl mx-auto p-4">
-    <h1 class="text-3xl font-bold mb-8 w-full text-center">🚀 About Me</h1>
-    <div class="text-center mb-8 w-full">
-        <p class="mb-4">😎 My name Wenjian (Michael) Shi, but most people know me as Sushi! You may know me from my time as a TA for CMPUT 201 or as a Vice President for the Undergraduate Association of Computing Science and Lister Hall Students' Association :)</p>
-        <p class="mb-4">⚒️ I'm currently a fourth-year Computer Science student at the University of Alberta, working as a software developer intern at INVIDI and working as a private tutor</p>
-        <p class="mb-8">📨 You find out what I have been up to on my <a href="https://www.mshi.ca/" class="text-blue-500">website</a> or check out my <a href="https://www.linkedin.com/in/wjshi/" class="text-blue-500">LinkedIn</a>!</p>
+<div>
+    <h1>🚀 About Me</h1>
+    <div>
+        <p>😎 My name Wenjian (Michael) Shi, but most people know me as Sushi! You may know me from my time as a TA for CMPUT 201 or as a Vice President for the Undergraduate Association of Computing Science and Lister Hall Students' Association :)</p>
+        <p>⚒️ I'm currently a fourth-year Computer Science student at the University of Alberta, working as a software developer intern at INVIDI and working as a private tutor</p>
+        <p>📨 You find out what I have been up to on my <a href="https://www.mshi.ca/">website</a> or check out my <a href="https://www.linkedin.com/in/wjshi/">LinkedIn</a>!</p>
     </div>
     <hr>
-    <h2 class="text-xl font-semibold mb-6 text-center w-full">🧑🏻‍💻 My recently used tech stack:</h2>
+    <h2>🧑🏻‍💻 My recently used tech stack:</h2>
     <div align="center">
         <!-- Cloud & Infrastructure -->
         <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
