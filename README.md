@@ -6,7 +6,7 @@
         <p class="mb-8">📨 You find out what I have been up to on my <a href="https://www.mshi.ca/" class="text-blue-500">website</a> or check out my <a href="https://www.linkedin.com/in/wjshi/" class="text-blue-500">LinkedIn</a>!</p>
     </div>
     <hr>
-    <h3 class="text-xl font-semibold mb-6 text-center w-full">🧑🏻‍💻 My recently used tech stack:</h3>
+    <h2 class="text-xl font-semibold mb-6 text-center w-full">🧑🏻‍💻 My recently used tech stack:</h2>
     <div align="center">
         <!-- Cloud & Infrastructure -->
         <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
