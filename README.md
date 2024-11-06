@@ -24,7 +24,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-	
+	<p></p>
+	<p></p>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=micsushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
