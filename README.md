@@ -6,7 +6,6 @@
         <p>📨 You find out what I have been up to on my <a href="https://www.mshi.ca/">website</a> or check out my <a href="https://www.linkedin.com/in/wjshi/">LinkedIn</a>!</p>
     </div>
     <hr>
-    <br>
     <h2>🧑🏻‍💻 My recently used tech stack:</h2>
     <div align="center">
         <!-- Cloud & Infrastructure -->
