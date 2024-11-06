@@ -5,7 +5,6 @@
         <p class="mb-4">⚒️ I'm currently a fourth-year Computer Science student at the University of Alberta, working as a software developer intern at INVIDI and working as a private tutor</p>
         <p class="mb-8">📨 You find out what I have been up to on my <a href="https://www.mshi.ca/" class="text-blue-500">website</a> or check out my <a href="https://www.linkedin.com/in/wjshi/" class="text-blue-500">LinkedIn</a>!</p>
     </div>
-    <br>
     <hr>
     <h3 class="text-xl font-semibold mb-6 text-center w-full">🧑🏻‍💻 My recently used tech stack:</h3>
     <div align="center">
