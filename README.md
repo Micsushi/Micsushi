@@ -1,8 +1,8 @@
 <div>
     <h1>🚀 About Me</h1>
     <div>
-        <p>😎 My name Wenjian (Michael) Shi, but most people know me as Sushi! You may know me from my time as a TA for CMPUT 201 or as a Vice President for the Undergraduate Association of Computing Science and Lister Hall Students' Association :)</p>
-        <p>⚒️ I'm currently a fourth-year Computer Science student at the University of Alberta, working as a software developer intern at INVIDI and working as a private tutor</p>
+        <p>😎 My name Wenjian (Michael) Shi, but most people know me as Sushi! You may know me from my time as a TA for CMPUT 201 or as a Vice President at the Undergraduate Association of Computing Science and Vice President at the Lister Hall Students' Association :)</p>
+        <p>⚒️ I'm currently a fourth-year Computer Science student at the University of Alberta, working as a Software Developer intern at INVIDI and working as a private tutor</p>
         <p>📨 You find out what I have been up to on my <a href="https://www.mshi.ca/">website</a> or check out my <a href="https://www.linkedin.com/in/wjshi/">LinkedIn</a>!</p>
     </div>
     <br>
